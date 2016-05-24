@@ -14,8 +14,8 @@ E= 8/2
 E = 4N/C
 
 
-2 ) - Devido ao campo elétrico gerado por uma carga Q, a carga q = +2.10 -5 fica
-submetida à força elétrica F = 4.10 -2 N. Determine o valor desse campo elétrico.
+2 ) - Devido ao campo elétrico gerado por uma carga Q, a carga q = +2*10 -5 fica
+submetida à força elétrica F = 4*10 -2 N. Determine o valor desse campo elétrico.
 
 A intensidade do campo elétrico (E) é definido por:
 
@@ -26,6 +26,19 @@ F: força elétrica [N];
 q: carga elétrica [C];
 E: campo elétrico [N/C]
 
-E = 4.10N^-2 / 2,0.10^-5
-E = 0,04 / 2.10-5
-E = 2.10^3 N/C
+E = 4*10N^-2 / 2,0*10^-5
+E = 0,04 / 2*10-5
+E = 2*10^3 N/C
+
+3) - O corpo eletrizado Q, positivo, produz num ponto P o campo elétrico E , de
+intensidade 2*10 5 N/C. Calcule a intensidade da força produzida numa carga
+positiva q = 4*10 -6 C colocada em P.
+
+A formula do campo elétrico é dada por:
+
+E=F/q
+2.10^5= F/4.10^-6
+F= 2*4*10^5*10^-6
+
+F = 8*10^-1
+F= 0,8N
