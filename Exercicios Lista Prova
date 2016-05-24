@@ -12,3 +12,20 @@ E= F/Q ( O campo eletrico é igual a Força dividida pela carga )
 E= 8/2
 
 E = 4N/C
+
+
+2 ) - Devido ao campo elétrico gerado por uma carga Q, a carga q = +2.10 -5 fica
+submetida à força elétrica F = 4.10 -2 N. Determine o valor desse campo elétrico.
+
+A intensidade do campo elétrico (E) é definido por:
+
+E = F/Q
+
+Onde:
+F: força elétrica [N];
+q: carga elétrica [C];
+E: campo elétrico [N/C]
+
+E = 4.10N^-2 / 2,0.10^-5
+E = 0,04 / 2.10-5
+E = 2.10^3 N/C
