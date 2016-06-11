@@ -51,3 +51,25 @@ F = E.q
 Resolvendo:
 
 F = 3,6.10³ . 1.10⁻⁵ = 0,036 N
+
+5) - Uma carga de prova q=-3.10elavado a -6 c, colocada na presença de um campo elétrico e, fica sujeita a uma força elétrica de intensidade 9N,
+horizontal, da direita para a esqueda. Determine a intensidade do vetor campo elétrico e sua orientação.
+
+F: força elétrica [N];
+q: carga elétrica [C];
+
+Resolvendo:
+
+Primeiro temos que analisar os dados:
+
+F = -3x10^-6
+q = 9N
+
+Usando a expressão E = F/q:
+
+E = F/q
+E = 9/-3x10^-6
+E = -3x10^6N/C
+
+Direção: horizontal
+Sentido: q>o, então E e F tem o mesmo sentido, isto é, da direita para a esquerda.
